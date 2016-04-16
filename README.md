@@ -1,2 +1,3 @@
 # TheIoTLearningInitiative
-TheIoTLearningInitiative
+
+The IoTLearningInitiative
